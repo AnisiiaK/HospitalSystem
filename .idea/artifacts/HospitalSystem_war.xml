@@ -1,14 +1,14 @@
 <component name="ArtifactManager">
-  <artifact type="war" name="Hospital_System2:war">
+  <artifact type="war" name="HospitalSystem:war">
     <output-path>$PROJECT_DIR$/target</output-path>
     <properties id="maven-jee-properties">
       <options>
-        <module>Hospital_System2</module>
+        <module>HospitalSystem</module>
         <packaging>war</packaging>
       </options>
     </properties>
     <root id="archive" name="Hospital System.war">
-      <element id="artifact" artifact-name="Hospital_System2:war exploded" />
+      <element id="artifact" artifact-name="HospitalSystem:war exploded" />
     </root>
   </artifact>
 </component>

@@ -19,4 +19,4 @@ Project is created with:
 * Bootstrap 5
 
 ## Project status
-need to add tasts
+need to add tests

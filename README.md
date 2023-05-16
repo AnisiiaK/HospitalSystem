@@ -4,7 +4,7 @@ Hospital System - web application created with Java EE (Servlet API, JDBC, JSP),
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Project status](#status)
+* [Project status](#project-status)
 
 ## General info
 This project is a hospital management system. It helps patient to make an appointment to a doctor. It's a training project that was created to understand better material on Servlet API and JSP.
